@@ -1,0 +1,10 @@
+* {
+	font-family: "Josefin Sans", serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.textShadow {
+	text-shadow: #00ff40 1px 0 10px;
+}
